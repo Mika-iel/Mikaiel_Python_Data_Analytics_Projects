@@ -7,6 +7,16 @@ This project focuses on cleaning and preparing a raw cafe sales dataset for anal
 The objective was to transform raw transactional data into a clean, analysis-ready dataset through data cleaning, validation, and transformation techniques.
 Dataset Source
 
+## Dataset
+
+The original dataset was obtained from Kaggle and contained raw cafe sales data requiring preparation before analysis.
+
+The dataset contained missing values, unknown entries, inconsistent formatting, and inconsistencies that required cleaning and transformation before analysis.
+
+Both the raw and cleaned datasets are provided:
+* Raw dataset: Original unprocessed data
+* Cleaned dataset: Final analysis-ready dataset after applying Python cleaning techniques
+
 The original dataset was obtained from Kaggle:
 https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
 
