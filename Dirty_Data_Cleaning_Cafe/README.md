@@ -64,11 +64,10 @@ Data quality checks were performed to ensure the cleaned dataset was accurate:
 
 * Product pricing was validated against expected values.
 * Product information was corrected using price-based mapping.
-
 * Missing values were reconstructed where possible:
-  - Total spending was calculated using:
+ - Total spending was calculated using:
     - Quantity × Unit Price
-  - Missing quantities were calculated using:
+ - Missing quantities were calculated using:
     - Total Spending ÷ Unit Price
    
 Validation checks were performed throughout the process to confirm the accuracy of the transformations.
