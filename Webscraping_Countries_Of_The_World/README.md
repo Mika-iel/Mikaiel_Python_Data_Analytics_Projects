@@ -6,6 +6,9 @@ This project demonstrates the process of extracting structured data from a webpa
 
 The objective was to collect unstructured web data, extract relevant information from HTML elements, and transform it into a structured dataset using Python libraries.
 
+The Website this data was scraped from:
+https://www.scrapethissite.com/pages/simple/
+
 ## Tools Used
 
 * Python
